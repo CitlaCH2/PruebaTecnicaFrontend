@@ -4,12 +4,12 @@
 
 ---
 
-### Parte 1
+//### Parte 1
 
-1. Realiza un Fork de este repositorio en tu cuenta de Github [Prueba Técnica FrontEnd](https://github.com/jcgeneration/PruebaTecnicaFrontend/fork)
-2. Realiza la clonación del repositorio de tu cuenta de Github.
-3. Modifica el archivo README.md para agregar el número de Cohorte, la fecha, hora  y tu nombre completo(de preferencia en un lista).
-4. Debes guardar los cambios en el repositorio local y posteriormente subirlos a Github. (Commit No. 1)
+//1. Realiza un Fork de este repositorio en tu cuenta de Github [Prueba Técnica FrontEnd](https://github.com/jcgeneration/PruebaTecnicaFrontend/fork)
+//2. Realiza la clonación del repositorio de tu cuenta de Github.
+//3. Modifica el archivo README.md para agregar el número de Cohorte, la fecha, hora  y tu nombre completo(de preferencia en un lista).
+//4. Debes guardar los cambios en el repositorio local y posteriormente subirlos a Github. (Commit No. 1)
 
 ---
 

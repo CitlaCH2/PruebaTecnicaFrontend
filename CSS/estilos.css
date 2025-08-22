@@ -1,0 +1,23 @@
+
+#linkCSS {
+  text-decoration: none;  /* Para quitar el subrayado. */
+  color: black;         /* Para cambiar de color azul a negro. */
+}
+
+h1{
+   text-align: center; 
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: blueviolet;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+
+p{
+ text-align: center;
+ text-decoration: solid;
+
+}
